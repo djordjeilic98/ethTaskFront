@@ -1,0 +1,14 @@
+table {
+  table-layout:fixed;
+}
+
+table td {
+  overflow:hidden;
+  /*padding-right: 50px;*/
+  /*padding-left: 50px;*/
+}
+table th {
+  overflow:hidden;
+  /*padding-right: 50px;*/
+  /*padding-left: 50px;*/
+}
